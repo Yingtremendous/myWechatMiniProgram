@@ -40,9 +40,9 @@
 		{
 			"root": "subpkg",
 			"pages": [
-				{
-				"path":"goods_detail/goods_detail",
-				"style":{}
+					{
+					"path":"goods_detail/goods_detail",
+					"style":{}
 					},
 					
 					{

@@ -99,7 +99,7 @@
 					index,
 					content: item
 				})
-			}
+			},
 		}
 	}
 </script>
